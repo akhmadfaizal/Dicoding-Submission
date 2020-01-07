@@ -21,4 +21,4 @@ Beberapa sumber daya yang bisa Anda manfaatkan dalam pengerjaan submission:
 
 - Aset poster film dapat diunduh pada tautan [ini](https://www.themoviedb.org/). 
 
-- Informasi mengenai film seperti judul, deskripsi, tanggal rilis, dll dapat dilihat pada tautan ini.
+- Informasi mengenai film seperti judul, deskripsi, tanggal rilis, dll dapat dilihat pada tautan [ini](https://www.themoviedb.org/discover/movies).
