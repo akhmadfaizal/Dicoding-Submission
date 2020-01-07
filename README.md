@@ -5,12 +5,12 @@ Fitur yang harus ada pada aplikasi:
 
 1. **Daftar Film**
 
-Syarat:
+Berisi:
 - Menggunakan ListView untuk menampilkan daftar film dengan jumlah minimal 10 item.
 
 2. **Detail Film**
 
-Syarat:
+Berisi:
 
 - Menampilkan poster dan informasi film pada halaman detail film.
 
